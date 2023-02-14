@@ -13,5 +13,6 @@ public class CSC325_Demo01 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("Tested out the branching system.");
     }
 }
